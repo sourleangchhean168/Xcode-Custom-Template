@@ -1,10 +1,10 @@
 # Xcode-Custom-Template
-![Xcode Logo](https://upload.wikimedia.org/wikipedia/en/archive/0/0c/20161113035920!Xcode_icon.png)
+![Xcode Logo](https://preview.ibb.co/gvDsqk/Screen_Shot_2017_04_13_at_1_56_09_PM.png)
 
 Hello there! This is Xcode File Template for using in Xcode that can let you easy to use and fast create new file with template such as TableviewController, Collectionview Controller,.......
 
 ## How to use
-1. Go to path of your Xcode: **Xcode 8.2.1.app/Contents/Developer/Library/Xcode/Templates/File Templates/Source**
+1. Go to path of your Xcode: **Xcode.app/Contents/Developer/Library/Xcode/Templates/File Templates/Source**
 2. Copy All Folder (".xctemplate") to above path
 3. Restart your xcode (Optional)
 
